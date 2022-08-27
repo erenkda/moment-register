@@ -1,12 +1,12 @@
 {
-  "name": "amerikan-2012",
+  "name": "moment-bots",
   "version": "1.0.0",
-  "description": "amerikxn sekli misali",
+  "description": "moment sekli misali",
   "main": "main.js",
   "scripts": {
     "test": "node main.js"
   },
-  "author": "amerikxn",
+  "author": "momentdev",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^13.7.0",
